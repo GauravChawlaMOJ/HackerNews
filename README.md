@@ -13,6 +13,7 @@ Please open the command prompt window (Press windows button + R. Type cmd in the
 Libraries used:
 
   SgmlReader: To read html from the webpage. It is used as it parses the html really well. 
+  
   System.XML.Linq: To convert html into xml. HTML is converted into xml so that linq could be used to read the data.
 
  
